@@ -4,4 +4,8 @@
 4. create a repository on github.
 5. open cmnd prompt within the project repository
 6. cmd-- git init
-	
+	git status
+	git add .
+	git commit -m "message"
+	git remote add origin https://github.com/Shariarbup/demoproject.git
+	git push origin master
