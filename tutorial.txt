@@ -1,0 +1,7 @@
+1. first download git
+2. create an account on github
+3. then install the git in your local pc.
+4. create a repository on github.
+5. open cmnd prompt within the project repository
+6. cmd-- git init
+	
